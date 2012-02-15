@@ -1,5 +1,7 @@
 <?php
-
+/*
+ * This is just a test class
+ */
 class ClassToTest{
 
 	private $var1=1;
