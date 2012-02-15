@@ -1,5 +1,8 @@
 <?php
 include_once('./src/ClassToTest.php');
+/**
+ * just to test the other test class
+ */
 class CTT extends PHPUnit_Framework_TestCase{
 	public function testConstructor(){
 		$ct = new ClassToTest();
